@@ -1,0 +1,7 @@
+C:\Users\8bitm\source\repos\InClassLab5\InClassLab5\bin\Debug\InClassLab5.exe.config
+C:\Users\8bitm\source\repos\InClassLab5\InClassLab5\bin\Debug\InClassLab5.exe
+C:\Users\8bitm\source\repos\InClassLab5\InClassLab5\bin\Debug\InClassLab5.pdb
+C:\Users\8bitm\source\repos\InClassLab5\InClassLab5\obj\Debug\InClassLab5.csprojAssemblyReference.cache
+C:\Users\8bitm\source\repos\InClassLab5\InClassLab5\obj\Debug\InClassLab5.csproj.CoreCompileInputs.cache
+C:\Users\8bitm\source\repos\InClassLab5\InClassLab5\obj\Debug\InClassLab5.exe
+C:\Users\8bitm\source\repos\InClassLab5\InClassLab5\obj\Debug\InClassLab5.pdb
